@@ -1,0 +1,14 @@
+Build a Console Guest Book.  Ask the user for their name and how many are in their party.  Keep track of how many people are at the party.  At the end, print out the guest list and the total number of guests.
+
+Start counting guests at 0
+
+Get user name
+Add name to guest list
+Get # of people in party
+Add # of people to total guests
+Ask if done
+If not done loop back to get user name
+If done move on
+
+Print out list of people
+Print out total # of people
